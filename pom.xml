@@ -68,7 +68,7 @@
 
 
       <build>
-          <defaultGoal>jetty:run</defaultGoal>
+          <defaultGoal>mvn jetty:run</defaultGoal>
 
 
           <plugins>
